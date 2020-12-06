@@ -6,7 +6,7 @@
         class="botao bg-red"
       >ATACAR</button>
       <button
-        @click="atacar(8, 10, true)"
+        @click="atacar(8, 10)"
         class="botao bg-yellow"
       >ATAQUE ESPECIAL</button>
       <button
